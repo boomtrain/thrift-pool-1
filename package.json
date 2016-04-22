@@ -1,6 +1,6 @@
 {
   "name": "@boomtrain/thrift-pool",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "A module that wraps thrift interfaces in connection pooling logic to make them more resilient.",
   "main": "index.js",
   "scripts": {
