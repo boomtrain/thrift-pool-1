@@ -4,7 +4,6 @@
   "description": "A module that wraps thrift interfaces in connection pooling logic to make them more resilient.",
   "main": "index.js",
   "scripts": {
-    "prepublish": "make build",
     "test": "make test"
   },
   "license": "MIT",
